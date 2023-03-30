@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    border: 2px solid pink;
+}
+header, footer{
+    width: 100%;
+    margin: 0 auto;
+    height: 150px;
+}
+footer{
+    clear: both;
+}
+
+.thirds{
+    float: left;
+    width: 33.3333%;
+    height: 200px;
+}
+.halves{
+    float: left;
+    width: 50%;
+    height: 250px;
+}

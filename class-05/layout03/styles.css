@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    border: 2px solid pink;
+}
+h2, footer{
+    width: 100%;
+    margin: 0 auto;
+    height: 150px;
+}
+footer{
+    clear: both;
+}
+
+section{
+    height: 600px;
+    float: left;
+}
+.one-fifth{
+    width: 20%;
+}
+.two-fifth{
+    width: 40%;
+}
